@@ -30,7 +30,7 @@ PLOT_RAW_Frequency = False       # Generate Raw Frequency plots
 PLOT_LOG2_Frequency = True      # Generate Log2 Raw Frequency plots
 PLOT_FOLD_CHANGE = False          # Generate Fold Change plots
 PLOT_LOG2_FOLD_CHANGE = True     # Generate Log2 Fold Change plots
-CREATE_EXCEL_OUTPUT_SUMMARY = False # Create the Excel summary file
+CREATE_EXCEL_OUTPUT_SUMMARY = True # Create the Excel summary file
 
 # --- Fold Change Parameters ---
 # This new logic uses Reads Per Million (RPM). A baseline file (e.g., "1_Input.xlsx") is required.
